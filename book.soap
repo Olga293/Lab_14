@@ -1,0 +1,11 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Book id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/lab_14_1_/lab_14(1)%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<GeneralInfo_x002B__x003C_Title_x003E_k__BackingField id="ref-3">Harry Potter and the Half-Blood Prince</GeneralInfo_x002B__x003C_Title_x003E_k__BackingField>
+<GeneralInfo_x002B__x003C_Country_x003E_k__BackingField id="ref-4">United Kingdom</GeneralInfo_x002B__x003C_Country_x003E_k__BackingField>
+<GeneralInfo_x002B__x003C_Year_x003E_k__BackingField>2005</GeneralInfo_x002B__x003C_Year_x003E_k__BackingField>
+<GeneralInfo_x002B__x003C_Pages_x003E_k__BackingField>607</GeneralInfo_x002B__x003C_Pages_x003E_k__BackingField>
+<GeneralInfo_x002B__x003C_Cover_x003E_k__BackingField id="ref-5">hard</GeneralInfo_x002B__x003C_Cover_x003E_k__BackingField>
+</a1:Book>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

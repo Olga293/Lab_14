@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book name="Harry Potter and the Philosopher's Stone">
+    <year>1997</year>
+    <country>United Kingdom</country>
+  </book>
+  <book name="Harry Potter and the Prisoner of Azkaban">
+    <year>1999</year>
+    <country>United Kingdom</country>
+  </book>
+  <book name="Harry Potter and the Goblet of Fire">
+    <year>2000</year>
+    <country>United Kingdom</country>
+  </book>
+  <book name="Harry Potter and the Half-Blood Prince">
+    <year>2005</year>
+    <country>United Kingdom</country>
+  </book>
+</books>

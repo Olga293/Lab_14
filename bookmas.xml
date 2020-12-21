@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>Harry Potter and the Prisoner of Azkaban</Title>
+    <Country>United Kingdom</Country>
+    <Year>1999</Year>
+    <Pages>464</Pages>
+    <Cover>hard</Cover>
+  </Book>
+  <Book>
+    <Title>Harry Potter and the Half-Blood Prince</Title>
+    <Country>United Kingdom</Country>
+    <Year>2005</Year>
+    <Pages>607</Pages>
+    <Cover>hard</Cover>
+  </Book>
+  <Book>
+    <Title>Harry Potter and the Philosopher's Stone</Title>
+    <Country>United Kingdom</Country>
+    <Year>1997</Year>
+    <Pages>332</Pages>
+    <Cover>hard</Cover>
+  </Book>
+  <Book>
+    <Title>Harry Potter and the Goblet of Fire</Title>
+    <Country>United Kingdom</Country>
+    <Year>2000</Year>
+    <Pages>636</Pages>
+    <Cover>hard</Cover>
+  </Book>
+</ArrayOfBook>
